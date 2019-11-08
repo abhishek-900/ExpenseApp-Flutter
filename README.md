@@ -1,4 +1,4 @@
-# expense_application
+# ExpenseApp-Flutter
 
 Daily Expense Keeper 
 
